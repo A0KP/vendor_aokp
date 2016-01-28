@@ -155,6 +155,7 @@ PRODUCT_PACKAGES += \
     CMWallpapers \
     CMFileManager \
     CMSettingsProvider \
+    CyanogenSetupWizard \
     Eleven \
     ExactCalculator \
     Launcher3 \
